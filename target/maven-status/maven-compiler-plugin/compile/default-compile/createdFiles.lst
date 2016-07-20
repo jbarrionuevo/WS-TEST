@@ -1,6 +1,11 @@
 main\GreetingController.class
 main\SumaController.class
+rest\client\EmployeeRestClient.class
 main\Application.class
+model\Employee.class
+model\EmployeeList.class
 service\SumaService.class
+main\EmployeeController.class
+service\EmployeeService.class
 model\Greeting.class
 model\Suma.class

@@ -18,5 +18,4 @@ public class Suma {
 	public Integer getAddition() {
 		return int1 + int2;
 	}
-
 }
