@@ -23,12 +23,15 @@
             <artifactId>spring-boot-devtools</artifactId>
             <optional>true</optional>
         </dependency>
+<<<<<<< HEAD
         <!-- https://mvnrepository.com/artifact/com.mashape.unirest/unirest-java -->
 		<dependency>
 		    <groupId>com.mashape.unirest</groupId>
 		    <artifactId>unirest-java</artifactId>
 		    <version>1.4.9</version>
 		</dependency>        
+=======
+>>>>>>> 975393cd51bb3a37d3fab09ab25f29d77f75f94d
     </dependencies>
 
     <properties>
